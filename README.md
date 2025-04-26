@@ -19,7 +19,7 @@ Build a machine learning model to classify Iris flowers into three species using
 2. Navigate to the project directory:
         cd iris_flower_classification
 3. Install the required dependencies:
-         Install the required dependencies:
+        pip install -r requirements.txt
 4. Open the Jupyter Notebook:
          jupyter notebook Iris_classification.ipynb
 5. Run each cell step-by-step to:
