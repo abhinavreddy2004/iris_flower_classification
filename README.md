@@ -11,11 +11,23 @@ Build a machine learning model to classify Iris flowers into three species using
 
 ## 📁 Dataset
 - IRIS.csv: Includes sepal/petal length and width, with species label.
+- Dataset Source: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 ## 🚀 How to Run
-1. Install requirements using:
-2. Open the Jupyter Notebook:
-3. Run each cell step-by-step to visualize, preprocess, and train the model.
+1. Clone the repository:
+        git clone https://github.com/abhinavreddy2004/iris_flower_classification.git
+2. Navigate to the project directory:
+        cd iris_flower_classification
+3. Install the required dependencies:
+         Install the required dependencies:
+4. Open the Jupyter Notebook:
+         jupyter notebook Iris_classification.ipynb
+5. Run each cell step-by-step to:
+        - Visualize the data
+        - Preprocess the dataset
+        - Preprocess the dataset
+        - Train the model
+        - Evaluate performance
 
 ## 📊 Model Evaluation
 - Random Forest Classifier achieved high accuracy on test data.
